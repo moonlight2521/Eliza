@@ -1,14 +1,10 @@
 #!/user/local/bin/perl -w
 ##########################################################################################################3#
 #Zun Lin
-#CMSC 416
-#Programming Assignment 1
 #Eliza
 #Purpose: This program is my version of Eliza a chat bot that is created by Joseph Weizenbaum to simulated 
 #conversation using pattern matching.
-#
 #To run the progam in the terminal type perl eliza.pl
-#Algorithm: just a branch of if and else if statement, I didnt used any algorithm. 
 #Problem: the problem I run to during this assigment is that perl is pretty new to me so it took 
 #me some time to get familiar with the language.
 #Example:
